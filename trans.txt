@@ -1,0 +1,14 @@
+#Enter chip Sequence for Station A, Station B, Station C, Station D, respectively in the following format only.
+-1, -1, -1, +1, +1, -1, +1, +1
+-1, -1, +1, -1, +1, +1, +1, -1
+-1, +1, -1, +1, +1, +1, -1, -1
+-1, +1, -1, -1, -1, -1, +1, -1
+#Enter the stations active at the Transmitter, in the following format only, e.g., "a, b, d" or "a, c"
+a, b, d
+#Enter the bit transferred by each station, in the following format only, e.g., "1, 0, 1" or "1, 1".
+#Note: Each active station must have a bit to transfer else remove its name from the active list.
+1, 0, 1
+#The chip sequence S transmitted to the receiver is:
+
+
+

@@ -1,0 +1,12 @@
+#Enter Code Sequence for Station A, Station B, Station C, Station D, respectively in the following format only.
+-1, -1, -1, +1, +1, -1, +1, +1
+-1, -1, +1, -1, +1, +1, +1, -1
+-1, +1, -1, +1, +1, +1, -1, -1
+-1, +1, -1, -1, -1, -1, +1, -1
+#Enter the station which you want to listen, in the following format only, e.g., 'a','b','c','d' (lowercase, single character)
+b
+#The chip sequence S transmitted to the receiver is:
+
+
+
+
